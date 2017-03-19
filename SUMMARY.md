@@ -1,7 +1,7 @@
 # Sass教程
        
 * [简介](README.md)
-* [sass简介](intro/README.md)
+* [sass简介](intro/README.md)  
     * [sass简介及安装](intro/001.sass简介及安装.md)
     * [sass与scss的转换](intro/002.sass与scss的转换.md)
 * [sass语法](syntax/README.md)
